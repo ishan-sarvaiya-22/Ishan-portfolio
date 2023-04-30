@@ -444,7 +444,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #0dc63e;
+  background: #0b371b;
   height: 10px;
 }
 
@@ -452,7 +452,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #292c2ada;
+  background-color: #0dc63e;
 }
 
 /*--------------------------------------------------------------
